@@ -1,0 +1,73 @@
+.cuerpo {
+    background-color: black;
+    padding: 50px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+.post {
+    margin: auto;
+    width: 30%;
+    border: 3px solid black;
+    padding: 1px;
+    background-color: white;
+}
+.cabecera {
+    height: 100px;
+}
+.imagen {
+    height: 350px;
+}
+.cabecera h1 {
+    position: relative;
+    right: -80px;
+}
+.cabecera p {
+    position: relative;
+    right: -80px;
+}
+#imglogo {
+    width: 60px;
+    height: 60px; 
+    position: relative;
+    top: -100px;
+    right: 0px; 
+}
+#imgcomp {
+    width: 30px;
+    height: 30px;
+    float: right;
+    position: relative;
+    top: -100px;
+    right: 0px;
+}
+.imagen img {
+    position: relative;
+    top: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 350px;
+    border: black 1px solid;
+}
+#img1 {
+    width: 50px;
+    height: 50px;
+}
+#img2 {
+    width: 50px;
+    height: 50px;
+}
+#img3 {
+    width: 50px;
+    height: 50px;
+}
+#img4 {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+.pie {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
